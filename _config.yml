@@ -1,4 +1,9 @@
-plugins:
-  - jekyll-remote-theme
+title: "My Lanyon Site"
+tagline: "Testing Lanyon on GitHub Pages"
+description: "Just checking if this theme works."
 
 remote_theme: poole/lanyon
+
+plugins:
+	- jekyll-remote-theme
+
