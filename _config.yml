@@ -1,9 +1,1 @@
-title: "My Lanyon Site"
-tagline: "Testing Lanyon on GitHub Pages"
-description: "Just checking if this theme works."
-
-remote_theme: benbalter/retlab
-
-plugins:
-	- jekyll-remote-theme
-
+remote_theme: cotes2020/jekyll-theme-chirpy
