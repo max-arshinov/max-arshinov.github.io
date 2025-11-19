@@ -2,7 +2,7 @@ title: "My Lanyon Site"
 tagline: "Testing Lanyon on GitHub Pages"
 description: "Just checking if this theme works."
 
-remote_theme: poole/lanyon
+remote_theme: benbalter/retlab
 
 plugins:
 	- jekyll-remote-theme
