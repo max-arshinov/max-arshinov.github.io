@@ -8,3 +8,5 @@ title: Blogging Like a Hacker
 Test!
 
 Test 2!
+
+![](d2.svg)
